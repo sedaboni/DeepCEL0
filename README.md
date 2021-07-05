@@ -16,5 +16,5 @@ In  this  work,  we  propose  a  deep  learning-based  algorithm  for  precise  
 ---
 
 ## Credits
-he code of this paper is built upon the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) and [Deep-STORM](https://github.com/EliasNehme/Deep-STORM) repositories.
+The code of this paper is built upon the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) and [Deep-STORM](https://github.com/EliasNehme/Deep-STORM) repositories.
 
