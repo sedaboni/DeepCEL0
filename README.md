@@ -1,5 +1,7 @@
 # DeepCEL0 for 2D Single Molecule Localization in Fluorescence Microscopy
 
+### [Paper (arXiv)](https://arxiv.org/abs/2107.02281) | [Paper (ResearchGate)](https://www.researchgate.net/publication/352993793_DeepCEL0_for_2D_Single_Molecule_Localization_in_Fluorescence_Microscopy)
+
 ## Abstract
 In fluorescence microscopy,  Single Molecule Localization Microscopy (SMLM) techniques aim at localizing with high precision high density fluorescent molecules by stochastically activating and imaging small subsets of blinking emitters.  Super Resolution (SR) plays an important role in this field since it allows to go beyond the intrinsic light diffraction limit.
 
@@ -18,3 +20,18 @@ In  this  work,  we  propose  a  deep  learning-based  algorithm  for  precise  
 ## Credits
 The code of this paper is built upon the [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) and [Deep-STORM](https://github.com/EliasNehme/Deep-STORM) repositories.
 
+# Citing
+Please consider to cite DeepCEL0 if you find it helpful.
+
+```BibTex
+@article{cascarano2022deepcel0,
+  title={DeepCEL0 for 2D single-molecule localization in fluorescence microscopy},
+  author={Cascarano, Pasquale and Comes, Maria Colomba and Sebastiani, Andrea and Mencattini, Arianna and Loli Piccolomini, Elena and Martinelli, Eugenio},
+  journal={Bioinformatics},
+  volume={38},
+  number={5},
+  pages={1411--1419},
+  year={2022},
+  publisher={Oxford University Press}
+}
+ ```
